@@ -1,6 +1,6 @@
 {
   "name": "adapt-contrib-objectMatching",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/CrediPointSolutions/adapt-contrib-objectMatching",
   "authors": [
     "Himanshu Rajotia <himanshu.rajotia@credipoint.com>"
@@ -13,5 +13,5 @@
     "adapt-plugin",
     "adapt-component"
   ],
-  "license": "GPLv3"
+  "license": "GPL-3.0"
 }

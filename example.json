@@ -48,12 +48,6 @@
             "final": "Final feedback! Your matching is partially correct."
         }
     },
-    "_buttons": {
-        "submit": "",
-        "reset": "",
-        "showCorrectAnswer": "",
-        "hideCorrectAnswer": ""
-    },
     "_pageLevelProgress": {
         "_isEnabled": true
     }
